@@ -1,4 +1,6 @@
 # Rob's Environment Files
 
-.tmux.conf - Configuration file for tmux.
+.bashrc       - Bash bashrc file.
+.bash_profile - Standard bash profile.
+.tmux.conf    - Configuration file for tmux.
 
