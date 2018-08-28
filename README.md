@@ -1,6 +1,6 @@
 # Rob's Environment Files  
   
-.bashrc       - Bash bashrc file.  
+.bashrc       - Configuration file for bash.
 .bash_profile - Standard bash profile.  
 .exrc         - Configuration file for vi.  
 .tmux.conf    - Configuration file for tmux.  
