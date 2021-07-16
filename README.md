@@ -4,4 +4,5 @@
 .bash_profile - Standard bash profile.  
 .exrc         - Configuration file for vi.  
 .tmux.conf    - Configuration file for tmux.  
+.vimrc        - Configuration file for vim.
 
