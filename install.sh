@@ -25,8 +25,7 @@ FILES="\
 
 # Suffix to add to file names when creating backups.
 
-BACKUP_SUFFIX=".bak"
-
+BACKUP_SUFFIX="bak"
 
 echo Installing environment files into $INSTALL_DIR.
 
