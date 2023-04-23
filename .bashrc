@@ -40,6 +40,7 @@ alias la='ls -a'
 alias ll='ls -la'
 alias llrt='ls -lrta'
 alias lsd='ls -al | grep "^d"'
+alias wimip="curl ifconfig.me; echo"
 
 # 2. Environment
 
