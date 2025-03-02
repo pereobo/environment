@@ -46,6 +46,8 @@ alias wimip='curl ifconfig.me; echo'
 
 export EDITOR=vi
 export HISTCONTROL=ignoredups
+export HISTFILESIZE=10000
+export HISTSIZE=10000
 export PAGER=less
 export PATH=~/bin:$PATH
 
